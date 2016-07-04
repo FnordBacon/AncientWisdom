@@ -1,0 +1,19 @@
+[
+{
+  "modid": "spark",
+  "name": "Spark",
+  "description": "A magictech mod which mainly strives to add unique functionality to the game.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "Fnordbacon" ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent": "",
+  "dependencies": [
+  ]
+}
+]

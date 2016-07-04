@@ -1,0 +1,15 @@
+# Keys
+keys.ancientwisdom.category=Ancient Wisdom
+keys.ancientwisdom.charge=Charge
+keys.ancientwisdom.release=Release
+
+# Creative Tabs
+itemGroup.ancientwisdom=Ancient Wisdom
+
+# Items
+item.ancientwisdom:debugGun.name=Debug Gun
+item.ancientwisdom:carvingRod.name=Carving Rod
+item.ancientwisdom:chiselSpade.name=Chisel Spade
+
+# Blocks
+tile.ancientwisdom:energyStone.name=Energy Stone
